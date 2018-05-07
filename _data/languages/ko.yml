@@ -18,8 +18,8 @@ menu:
   search: 검색
 
 sidebar:
-  overview: Overview
-  toc: Topic
+  overview: About
+  toc: Index
 
 post:
   sticky: 고정
