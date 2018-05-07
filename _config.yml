@@ -24,9 +24,9 @@ paginate: 10
 #archive:
   #paginate: 10
   #paginate_path: "/page:num/"
-category:
-  paginate: 10
-  paginate_path: "/page:num/"
+#category:
+  #paginate: 10
+  #paginate_path: "/page:num/"
 #tag:
   #paginate: 10
   #paginate_path: "/page:num/"
@@ -117,12 +117,12 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
+  categories: /categories/
   #about: /about/
-  archives: /archives/
-  tags: /tags/
-  #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  #archives: /archives/
+  #tags: /tags/
+  sitemap: /sitemap.xml
+  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
